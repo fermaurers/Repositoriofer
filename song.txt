@@ -7,5 +7,14 @@ prueba no 4
 para probar con reset mixed
 otra vez con reset mixed
 para probar el file system
+para probar el reset head
+
+verso 1 de 4
+verso 2 de 4
+verso 3 de 4
+verso 4 de 4
+
+
+
 
 
