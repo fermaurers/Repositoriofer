@@ -8,6 +8,15 @@ para probar con reset mixed
 otra vez con reset mixed
 para probar el file system
 vamos a ver si se guardan los cambios
+para probar el reset head
+
+verso 1 de 4
+verso 2 de 4
+verso 3 de 4
+verso 4 de 4
+no se porque no se sube
+ahora editamos song en la rama master
+
 
 
 
